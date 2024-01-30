@@ -1,2 +1,2 @@
 # Burger-Website
- some text
+ <img src="image/SS_00" align="center">

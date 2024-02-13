@@ -15,8 +15,10 @@ Website link : ▶️ https://github.com/Devanshjagad/Burger-Website
 
 <b>
 The Images of the website are shown as below :- 👇
- ![title-img](https://github.com/Devanshjagad/Burger-Website/assets/137220124/31107243-7858-4848-9400-b9ea174ea4bf)
 <b>
+
+ 
+ ![title-img](https://github.com/Devanshjagad/Burger-Website/assets/137220124/31107243-7858-4848-9400-b9ea174ea4bf)
 
 
  

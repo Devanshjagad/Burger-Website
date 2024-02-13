@@ -18,7 +18,7 @@ The Images of the website are shown as below :- 👇
 <b>
 
  
- ![title-img](https://github.com/Devanshjagad/Burger-Website/assets/137220124/31107243-7858-4848-9400-b9ea174ea4bf)
+ ![SS_00](https://github.com/Devanshjagad/Burger-Website/assets/137220124/33d8f1e5-7c76-4a8d-bbf5-0f547fe2d100)
 
 
  

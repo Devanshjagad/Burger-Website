@@ -11,12 +11,11 @@ We prioritize convenience and efficiency, offering online ordering and delivery 
 
 Join us in the celebration of all things burger as we strive to elevate the culinary experience through our modern and dynamic website.
 
-Website link : ▶️ https://github.com/Devanshjagad/Burger-Website 
 
 <b>The Images of the website are shown as below :- 👇<b>
 
 
-<br><br>
+<br>
 
  # Screenshot 01
  ![SS_00](https://github.com/Devanshjagad/Burger-Website/assets/137220124/33d8f1e5-7c76-4a8d-bbf5-0f547fe2d100)
@@ -25,3 +24,5 @@ Website link : ▶️ https://github.com/Devanshjagad/Burger-Website
 # Screenshot 02
 ![SS_01](https://github.com/Devanshjagad/Burger-Website/assets/137220124/230dd089-ef95-4f21-b184-0304f8737dfb)
 </i></p>
+
+Website link : ▶️ https://github.com/Devanshjagad/Burger-Website 
